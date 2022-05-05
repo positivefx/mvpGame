@@ -23,10 +23,13 @@
   },
   "homepage": "https://github.com/positivefx/mvpGame#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "express": "^4.18.1",
     "mongoose": "^6.3.2",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5",
+    "underscore": "^1.13.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
